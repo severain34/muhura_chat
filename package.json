@@ -1,0 +1,10 @@
+{
+  "name": "student-chat",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix backend run dev",
+    "start": "npm --prefix backend run start",
+    "backend": "npm --prefix backend run dev",
+    "frontend": "npm --prefix frontend start"
+  }
+}
